@@ -20,4 +20,8 @@ class LoginPage():
     def click_login(self):
         self.driver.find_element_by_id(self.login_button_id).click()
 
+    # this function not included
+    def click_logout(self):
+        self.driver.find_element_by_id(self.logout_button_id).click()
+
 

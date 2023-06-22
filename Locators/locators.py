@@ -8,3 +8,5 @@ class Locators():
 
     # home page objects
     my_info_module_xpath = '//*[@id="menu_pim_viewMyDetails"]/b'
+    my_module_xpath = '//*[@id="menu_pim_viewMyDetails"]/b'
+    my_info_xpath = '//*[@id="menu_pim_viewMyDetails"]/b'
